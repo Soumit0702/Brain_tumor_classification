@@ -54,7 +54,7 @@ Accurate classification of brain tumors—such as glioma, meningioma, and pituit
 
 ---
 
-## 🏗Models
+## Models
 
 ### 1. CNN (From Scratch)
 A custom convolutional neural network built from the ground up.  
